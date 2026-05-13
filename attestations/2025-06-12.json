@@ -1,0 +1,16 @@
+{
+  "date": "2025-06-12",
+  "attested_at": "2025-06-12T09:05:00+08:00",
+  "strategies": [
+    {
+      "strategy_id": "etf_rotation_v1",
+      "model_id": "lgb_20260331_105850",
+      "signal_hash": "sha256:dc1e9dc7dfb75a297892d741f9b18c7f404877452aba25bb2a3865147794f565"
+    },
+    {
+      "strategy_id": "hs300_ml_alpha",
+      "model_id": "lgb_20260321_020358",
+      "signal_hash": "sha256:81ce8dbe20ff2d8a67019da5621f2e30ba25377be5c0b6622cc053953e0eb5e0"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "date": "2026-03-02",
+  "attested_at": "2026-03-02T09:05:00+08:00",
+  "strategies": [
+    {
+      "strategy_id": "etf_all_f3",
+      "model_id": "lgb_20260416_192417",
+      "signal_hash": "sha256:f79b34c4a95dd3d2a6d66f9d85a0f89ebe1b32eb14933dc215215dd4fb271e47"
+    },
+    {
+      "strategy_id": "etf_rotation_v1",
+      "model_id": "lgb_20260331_105850",
+      "signal_hash": "sha256:bd39786abb4fd1467a39866fd99d74cde20d9ff8f388f4b6dc1ec6477a10cf9f"
+    },
+    {
+      "strategy_id": "hs300_ml_alpha",
+      "model_id": "lgb_20260321_020358",
+      "signal_hash": "sha256:d883c377821947b79a173f0a9202d095cce3fa316e17357272f8d5edad45fd32"
+    },
+    {
+      "strategy_id": "hs300_ml_alpha_v2",
+      "model_id": "lgb_20260417_160615",
+      "signal_hash": "sha256:ec1ac40f114c67e1f654dfe19dcd7b2a136ef2083736669b412fcd281196ae83"
+    },
+    {
+      "strategy_id": "hs300_ml_alpha_v3",
+      "model_id": "lgb_20260417_161454",
+      "signal_hash": "sha256:3dbfc61da78e3c237608b80a29e23e8cb1ba4b664b6a43d4f82f9a99ef2761d8"
+    }
+  ]
+}

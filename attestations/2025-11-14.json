@@ -1,0 +1,21 @@
+{
+  "date": "2025-11-14",
+  "attested_at": "2025-11-14T09:05:00+08:00",
+  "strategies": [
+    {
+      "strategy_id": "etf_all_f3",
+      "model_id": "lgb_20260416_192417",
+      "signal_hash": "sha256:e36d5dbad4b58f07472436185e808ac6b7e8df21ac6d636efdc7f65fe1236c8d"
+    },
+    {
+      "strategy_id": "etf_rotation_v1",
+      "model_id": "lgb_20260331_105850",
+      "signal_hash": "sha256:3d9652b540d3e7612d1a087de7b1f3a716ac42f55b1a7ee5d144156276161960"
+    },
+    {
+      "strategy_id": "hs300_ml_alpha",
+      "model_id": "lgb_20260321_020358",
+      "signal_hash": "sha256:b4ba01c062a9839efa1a5dd6c16af219009dab7fe94502aab024f8ea3a5983bb"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "date": "2026-04-27",
+  "attested_at": "2026-04-27T09:05:00+08:00",
+  "strategies": [
+    {
+      "strategy_id": "etf_all_f3",
+      "model_id": "lgb_20260416_192417",
+      "signal_hash": "cc5c35152ae30f74bef9b67e1535e04b"
+    }
+  ]
+}
