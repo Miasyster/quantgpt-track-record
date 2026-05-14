@@ -1,0 +1,13 @@
+{
+  "date": "2026-05-15",
+  "attested_at": "2026-05-14T08:46:49.919580+00:00",
+  "strategies": [
+    {
+      "strategy_slug": "alpha-strategy-01",
+      "signal_hash": "8acd1d5df2878e33936d0c8df98461c9",
+      "universe": "hs300",
+      "execution_price": "open",
+      "attested_at": "2026-05-14T08:46:49.919577+00:00"
+    }
+  ]
+}
