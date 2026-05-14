@@ -1,6 +1,6 @@
 {
   "date": "2026-05-15",
-  "attested_at": "2026-05-14T08:46:49.919580+00:00",
+  "attested_at": "2026-05-14T15:33:41.060056+00:00",
   "strategies": [
     {
       "strategy_slug": "alpha-strategy-01",
@@ -8,6 +8,13 @@
       "universe": "hs300",
       "execution_price": "open",
       "attested_at": "2026-05-14T08:46:49.919577+00:00"
+    },
+    {
+      "strategy_slug": "alpha-strategy-02",
+      "signal_hash": "d546e5c16a948b05ac26cfcdd1e7df97",
+      "universe": "etf_all",
+      "execution_price": "open",
+      "attested_at": "2026-05-14T15:33:41.060046+00:00"
     }
   ]
 }
