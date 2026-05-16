@@ -1,6 +1,6 @@
 {
   "date": "2026-03-19",
-  "attested_at": "2026-03-19T09:05:00+08:00",
+  "attested_at": "2026-05-16T01:10:23.588316+00:00",
   "strategies": [
     {
       "strategy_id": "etf_all_f3",
@@ -26,6 +26,13 @@
       "strategy_id": "hs300_ml_alpha_v3",
       "model_id": "lgb_20260417_161454",
       "signal_hash": "sha256:94ff5ecfb7ecbe24adf58b8926cd6182d843976dbc3ad241741f976a6b63ab5c"
+    },
+    {
+      "strategy_slug": "demo-multifactor",
+      "signal_hash": "07b55b358972408c",
+      "universe": "hs300",
+      "execution_price": "open",
+      "attested_at": "2026-05-16T01:10:23.588304+00:00"
     }
   ]
 }
