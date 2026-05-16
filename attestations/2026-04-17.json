@@ -1,11 +1,18 @@
 {
   "date": "2026-04-17",
-  "attested_at": "2026-04-17T09:05:00+08:00",
+  "attested_at": "2026-05-16T01:10:10.132824+00:00",
   "strategies": [
     {
       "strategy_id": "hs300_ml_alpha_v2",
       "model_id": "lgb_20260417_160615",
       "signal_hash": "cdf6ccfbe5b3eed279ac2522918b3d18"
+    },
+    {
+      "strategy_slug": "demo-multifactor",
+      "signal_hash": "1dccda0a2b58bc20",
+      "universe": "hs300",
+      "execution_price": "open",
+      "attested_at": "2026-05-16T01:10:10.132812+00:00"
     }
   ]
 }
