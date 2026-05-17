@@ -1,0 +1,13 @@
+{
+  "date": "2026-05-18",
+  "attested_at": "2026-05-17T16:26:57.979879+00:00",
+  "strategies": [
+    {
+      "strategy_slug": "mf-csi500-v1",
+      "signal_hash": "b426b6bcf5de6a77417d0e2070144ea8",
+      "universe": "csi500",
+      "execution_price": "open",
+      "attested_at": "2026-05-17T16:26:57.979875+00:00"
+    }
+  ]
+}
