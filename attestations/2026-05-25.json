@@ -1,0 +1,13 @@
+{
+  "date": "2026-05-25",
+  "attested_at": "2026-05-22T02:47:55.992325+00:00",
+  "strategies": [
+    {
+      "strategy_slug": "gem-etf-159941",
+      "signal_hash": "b95ee40da0834c81ace92e2d281800e9",
+      "universe": "etf_all",
+      "execution_price": "open",
+      "attested_at": "2026-05-22T02:47:55.992322+00:00"
+    }
+  ]
+}
