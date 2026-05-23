@@ -1,6 +1,6 @@
 {
   "date": "2026-05-25",
-  "attested_at": "2026-05-22T02:47:55.992325+00:00",
+  "attested_at": "2026-05-23T18:24:18.360496+00:00",
   "strategies": [
     {
       "strategy_slug": "gem-etf-159941",
@@ -8,6 +8,13 @@
       "universe": "etf_all",
       "execution_price": "open",
       "attested_at": "2026-05-22T02:47:55.992322+00:00"
+    },
+    {
+      "strategy_slug": "frog-in-the-pan-momentum",
+      "signal_hash": "4d9b1bcb76513e2a8333eaa4c8cd7a17",
+      "universe": "csi1000",
+      "execution_price": "open",
+      "attested_at": "2026-05-23T18:24:18.360486+00:00"
     }
   ]
 }
