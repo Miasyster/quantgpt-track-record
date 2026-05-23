@@ -1,6 +1,6 @@
 {
   "date": "2026-05-25",
-  "attested_at": "2026-05-23T18:24:18.360496+00:00",
+  "attested_at": "2026-05-23T18:24:24.110071+00:00",
   "strategies": [
     {
       "strategy_slug": "gem-etf-159941",
@@ -15,6 +15,13 @@
       "universe": "csi1000",
       "execution_price": "open",
       "attested_at": "2026-05-23T18:24:18.360486+00:00"
+    },
+    {
+      "strategy_slug": "lowvol-price-position",
+      "signal_hash": "203cbbabbebd5ae198244b8be1c908e2",
+      "universe": "csi1000",
+      "execution_price": "open",
+      "attested_at": "2026-05-23T18:24:24.110062+00:00"
     }
   ]
 }
