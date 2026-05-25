@@ -1,6 +1,6 @@
 {
   "date": "2026-05-25",
-  "attested_at": "2026-05-25T01:01:41.917196+00:00",
+  "attested_at": "2026-05-25T06:57:17.246280+00:00",
   "strategies": [
     {
       "strategy_slug": "gem-etf-159941",
@@ -36,6 +36,13 @@
       "universe": "hs300",
       "execution_price": "open",
       "attested_at": "2026-05-25T01:01:41.917188+00:00"
+    },
+    {
+      "strategy_slug": "wmdpd_etf",
+      "signal_hash": "8a087332fa9b75ee8a7b154004df5832",
+      "universe": "etf_all",
+      "execution_price": "close",
+      "attested_at": "2026-05-25T06:57:17.246269+00:00"
     }
   ]
 }
