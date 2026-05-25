@@ -1,6 +1,6 @@
 {
   "date": "2026-05-25",
-  "attested_at": "2026-05-23T18:24:29.383636+00:00",
+  "attested_at": "2026-05-25T01:01:41.917196+00:00",
   "strategies": [
     {
       "strategy_slug": "gem-etf-159941",
@@ -29,6 +29,13 @@
       "universe": "csi1000",
       "execution_price": "open",
       "attested_at": "2026-05-23T18:24:29.383626+00:00"
+    },
+    {
+      "strategy_slug": "mds-alpha-lobster",
+      "signal_hash": "fdf83dc809fef8c929c600ffe2d41a7e",
+      "universe": "hs300",
+      "execution_price": "open",
+      "attested_at": "2026-05-25T01:01:41.917188+00:00"
     }
   ]
 }
