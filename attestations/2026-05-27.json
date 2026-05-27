@@ -1,6 +1,6 @@
 {
   "date": "2026-05-27",
-  "attested_at": "2026-05-26T01:41:31.657356+00:00",
+  "attested_at": "2026-05-27T01:01:22.211157+00:00",
   "strategies": [
     {
       "strategy_slug": "fundamental-mf",
@@ -8,6 +8,13 @@
       "universe": "hs300",
       "execution_price": "open",
       "attested_at": "2026-05-26T01:41:31.657352+00:00"
+    },
+    {
+      "strategy_slug": "mds-alpha-lobster",
+      "signal_hash": "fdf83dc809fef8c929c600ffe2d41a7e",
+      "universe": "hs300",
+      "execution_price": "open",
+      "attested_at": "2026-05-27T01:01:22.211146+00:00"
     }
   ]
 }
