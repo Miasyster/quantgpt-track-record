@@ -1,0 +1,13 @@
+{
+  "date": "2026-05-29",
+  "attested_at": "2026-05-28T12:16:34.635665+00:00",
+  "strategies": [
+    {
+      "strategy_slug": "alpha-strategy-02-v2",
+      "signal_hash": "9fa095ac5aec33c943996f1d42aa18fd",
+      "universe": "etf_all",
+      "execution_price": "open",
+      "attested_at": "2026-05-28T12:16:34.635661+00:00"
+    }
+  ]
+}
