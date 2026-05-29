@@ -1,6 +1,6 @@
 {
   "date": "2026-05-29",
-  "attested_at": "2026-05-28T13:19:36.843338+00:00",
+  "attested_at": "2026-05-29T06:57:30.330799+00:00",
   "strategies": [
     {
       "strategy_slug": "alpha-strategy-02-v2",
@@ -15,6 +15,13 @@
       "universe": "etf_all",
       "execution_price": "open",
       "attested_at": "2026-05-28T13:19:36.843328+00:00"
+    },
+    {
+      "strategy_slug": "wmdpd_etf",
+      "signal_hash": "5c4f570b8e97f2b52434b6aaecab6069",
+      "universe": "etf_all",
+      "execution_price": "close",
+      "attested_at": "2026-05-29T06:57:30.330788+00:00"
     }
   ]
 }
