@@ -1,0 +1,13 @@
+{
+  "date": "2026-06-09",
+  "attested_at": "2026-06-09T01:01:15.877676+00:00",
+  "strategies": [
+    {
+      "strategy_slug": "mds-alpha-lobster",
+      "signal_hash": "842f94e5dd7b475e8ba392d64545de2a",
+      "universe": "hs300",
+      "execution_price": "open",
+      "attested_at": "2026-06-09T01:01:15.877673+00:00"
+    }
+  ]
+}
