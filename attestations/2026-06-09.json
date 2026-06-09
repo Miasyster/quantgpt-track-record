@@ -1,6 +1,6 @@
 {
   "date": "2026-06-09",
-  "attested_at": "2026-06-09T01:01:15.877676+00:00",
+  "attested_at": "2026-06-09T06:57:22.308883+00:00",
   "strategies": [
     {
       "strategy_slug": "mds-alpha-lobster",
@@ -8,6 +8,13 @@
       "universe": "hs300",
       "execution_price": "open",
       "attested_at": "2026-06-09T01:01:15.877673+00:00"
+    },
+    {
+      "strategy_slug": "wmdpd_etf",
+      "signal_hash": "26c53d55bc2200b6c3e6b23d07628e25",
+      "universe": "etf_all",
+      "execution_price": "close",
+      "attested_at": "2026-06-09T06:57:22.308874+00:00"
     }
   ]
 }
