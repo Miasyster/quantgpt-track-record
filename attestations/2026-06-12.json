@@ -1,0 +1,13 @@
+{
+  "date": "2026-06-12",
+  "attested_at": "2026-06-11T17:33:20.970498+00:00",
+  "strategies": [
+    {
+      "strategy_slug": "lin-id-blend-401050-paper",
+      "signal_hash": "772c05675a2b47b12e9b7407f7c4cf2c",
+      "universe": "csi2000",
+      "execution_price": "open",
+      "attested_at": "2026-06-11T17:33:20.970495+00:00"
+    }
+  ]
+}
