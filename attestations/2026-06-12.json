@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "attested_at": "2026-06-11T17:33:20.970498+00:00",
+  "attested_at": "2026-06-12T06:57:38.776489+00:00",
   "strategies": [
     {
       "strategy_slug": "lin-id-blend-401050-paper",
@@ -8,6 +8,13 @@
       "universe": "csi2000",
       "execution_price": "open",
       "attested_at": "2026-06-11T17:33:20.970495+00:00"
+    },
+    {
+      "strategy_slug": "wmdpd_etf",
+      "signal_hash": "57e6e6bb79e552bd5d5f50e9f2739f53",
+      "universe": "etf_all",
+      "execution_price": "close",
+      "attested_at": "2026-06-12T06:57:38.776480+00:00"
     }
   ]
 }
