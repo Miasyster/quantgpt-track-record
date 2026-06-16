@@ -1,6 +1,6 @@
 {
   "date": "2026-06-16",
-  "attested_at": "2026-06-16T01:13:51.070869+00:00",
+  "attested_at": "2026-06-16T06:57:21.694822+00:00",
   "strategies": [
     {
       "strategy_slug": "fundamental-mf",
@@ -8,6 +8,13 @@
       "universe": "hs300",
       "execution_price": "open",
       "attested_at": "2026-06-16T01:13:51.070866+00:00"
+    },
+    {
+      "strategy_slug": "wmdpd_etf",
+      "signal_hash": "0d9f44fb19b8ab2566f7177c35d46eb4",
+      "universe": "etf_all",
+      "execution_price": "close",
+      "attested_at": "2026-06-16T06:57:21.694814+00:00"
     }
   ]
 }
