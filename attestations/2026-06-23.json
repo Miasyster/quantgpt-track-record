@@ -1,6 +1,6 @@
 {
   "date": "2026-06-23",
-  "attested_at": "2026-06-22T12:23:18.722297+00:00",
+  "attested_at": "2026-06-22T12:28:51.361862+00:00",
   "strategies": [
     {
       "strategy_slug": "golden-tree-test-rsi",
@@ -8,6 +8,13 @@
       "universe": "hs300",
       "execution_price": "open",
       "attested_at": "2026-06-22T12:23:18.722291+00:00"
+    },
+    {
+      "strategy_slug": "golden-tree-rsi-factor",
+      "signal_hash": "a1b0817c9fbf8ba95a3b264787a09024",
+      "universe": "hs300",
+      "execution_price": "open",
+      "attested_at": "2026-06-22T12:28:51.361853+00:00"
     }
   ]
 }
