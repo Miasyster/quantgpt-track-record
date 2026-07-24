@@ -1,0 +1,13 @@
+{
+  "date": "2026-07-24",
+  "attested_at": "2026-07-24T01:03:22.921239+00:00",
+  "strategies": [
+    {
+      "strategy_slug": "fundamental-mf",
+      "signal_hash": "27e86ad63999a819bdc29e98920673f3",
+      "universe": "hs300",
+      "execution_price": "open",
+      "attested_at": "2026-07-24T01:03:22.921234+00:00"
+    }
+  ]
+}
