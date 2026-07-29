@@ -1,6 +1,6 @@
 {
   "date": "2026-07-30",
-  "attested_at": "2026-07-29T03:25:56.781648+00:00",
+  "attested_at": "2026-07-29T03:35:35.971222+00:00",
   "strategies": [
     {
       "strategy_slug": "my-strategy",
@@ -8,6 +8,13 @@
       "universe": "hs300",
       "execution_price": "open",
       "attested_at": "2026-07-29T03:25:56.781644+00:00"
+    },
+    {
+      "strategy_slug": "momentum-value-portfolio",
+      "signal_hash": "3d876b73ed4981742ba9240257547fee",
+      "universe": "hs300",
+      "execution_price": "open",
+      "attested_at": "2026-07-29T03:35:35.971210+00:00"
     }
   ]
 }
