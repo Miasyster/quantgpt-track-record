@@ -1,0 +1,13 @@
+{
+  "date": "2026-08-10",
+  "attested_at": "2026-08-10T06:57:34.266702+00:00",
+  "strategies": [
+    {
+      "strategy_slug": "wmdpd_etf",
+      "signal_hash": "17d3da32fdb322e8a2dca803fbe3eb0f",
+      "universe": "etf_all",
+      "execution_price": "close",
+      "attested_at": "2026-08-10T06:57:34.266698+00:00"
+    }
+  ]
+}
