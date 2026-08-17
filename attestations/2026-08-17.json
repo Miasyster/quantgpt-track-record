@@ -1,6 +1,6 @@
 {
   "date": "2026-08-17",
-  "attested_at": "2026-08-17T01:09:13.918047+00:00",
+  "attested_at": "2026-08-17T06:57:21.240762+00:00",
   "strategies": [
     {
       "strategy_slug": "my_startegy",
@@ -22,6 +22,13 @@
       "universe": "hs300",
       "execution_price": "open",
       "attested_at": "2026-08-17T01:09:13.918038+00:00"
+    },
+    {
+      "strategy_slug": "wmdpd_etf",
+      "signal_hash": "46fedadb4e2573229ca7a7eda7dd8bcf",
+      "universe": "etf_all",
+      "execution_price": "close",
+      "attested_at": "2026-08-17T06:57:21.240754+00:00"
     }
   ]
 }
