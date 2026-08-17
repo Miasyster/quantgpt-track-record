@@ -1,6 +1,6 @@
 {
   "date": "2026-08-17",
-  "attested_at": "2026-08-15T20:49:04.953559+00:00",
+  "attested_at": "2026-08-17T01:09:13.918047+00:00",
   "strategies": [
     {
       "strategy_slug": "my_startegy",
@@ -15,6 +15,13 @@
       "universe": "hs300",
       "execution_price": "open",
       "attested_at": "2026-08-15T20:49:04.953551+00:00"
+    },
+    {
+      "strategy_slug": "fundamental-mf",
+      "signal_hash": "00eb283ab9b734440ff27e352471830b",
+      "universe": "hs300",
+      "execution_price": "open",
+      "attested_at": "2026-08-17T01:09:13.918038+00:00"
     }
   ]
 }
