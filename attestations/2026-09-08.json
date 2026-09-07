@@ -1,0 +1,13 @@
+{
+  "date": "2026-09-08",
+  "attested_at": "2026-09-07T06:20:07.334735+00:00",
+  "strategies": [
+    {
+      "strategy_slug": "yiziban-gongjinchi",
+      "signal_hash": "aa7fd249414a917e615a283429a310e0",
+      "universe": "csi2000",
+      "execution_price": "open",
+      "attested_at": "2026-09-07T06:20:07.334731+00:00"
+    }
+  ]
+}
