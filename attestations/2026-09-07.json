@@ -1,6 +1,6 @@
 {
   "date": "2026-09-07",
-  "attested_at": "2026-09-07T01:12:21.424448+00:00",
+  "attested_at": "2026-09-07T03:27:47.362335+00:00",
   "strategies": [
     {
       "strategy_slug": "hs300-llm",
@@ -15,6 +15,13 @@
       "universe": "hs300",
       "execution_price": "open",
       "attested_at": "2026-09-07T01:12:21.424438+00:00"
+    },
+    {
+      "strategy_slug": "alphasage-ep999-42",
+      "signal_hash": "e6cd5a0a36cc4cbe5fd5342a25c3bc93",
+      "universe": "hs300",
+      "execution_price": "close",
+      "attested_at": "2026-09-07T03:27:47.362325+00:00"
     }
   ]
 }
