@@ -1,0 +1,13 @@
+{
+  "date": "2026-09-09",
+  "attested_at": "2026-09-08T08:09:15.779444+00:00",
+  "strategies": [
+    {
+      "strategy_slug": "hs300-llm",
+      "signal_hash": "263df6003a2b2a1e7815e07eb27bea07",
+      "universe": "hs300",
+      "execution_price": "open",
+      "attested_at": "2026-09-08T08:09:15.779441+00:00"
+    }
+  ]
+}
