@@ -1,6 +1,6 @@
 {
   "date": "2026-09-08",
-  "attested_at": "2026-09-07T08:38:22.569453+00:00",
+  "attested_at": "2026-09-08T01:04:35.361368+00:00",
   "strategies": [
     {
       "strategy_slug": "yiziban-gongjinchi",
@@ -15,6 +15,13 @@
       "universe": "hs300",
       "execution_price": "open",
       "attested_at": "2026-09-07T08:38:22.569445+00:00"
+    },
+    {
+      "strategy_slug": "fundamental-mf",
+      "signal_hash": "a4c05691338b4fb53caa1f9e555744a4",
+      "universe": "hs300",
+      "execution_price": "open",
+      "attested_at": "2026-09-08T01:04:35.361359+00:00"
     }
   ]
 }
