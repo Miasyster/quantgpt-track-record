@@ -1,6 +1,6 @@
 {
   "date": "2026-09-09",
-  "attested_at": "2026-09-08T08:09:15.779444+00:00",
+  "attested_at": "2026-09-09T01:08:35.811065+00:00",
   "strategies": [
     {
       "strategy_slug": "hs300-llm",
@@ -8,6 +8,13 @@
       "universe": "hs300",
       "execution_price": "open",
       "attested_at": "2026-09-08T08:09:15.779441+00:00"
+    },
+    {
+      "strategy_slug": "fundamental-mf",
+      "signal_hash": "1c6b35fbf0d35911288e688a918506ef",
+      "universe": "hs300",
+      "execution_price": "open",
+      "attested_at": "2026-09-09T01:08:35.811056+00:00"
     }
   ]
 }
